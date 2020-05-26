@@ -1,6 +1,6 @@
 {
-  "homepage": "https://github.io/500kk/dev500k",
-  "name": "vuexy-react-admin-dashboard",
+  "homepage": "https://500kk.github.io/dev2500k",
+  "name": "vuexy-reactt-admin-dashboard",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
@@ -112,12 +112,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "homepage": "https://github.com/500kk/500k#readme",
-  "main": "app.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/500kk/500k.git"
   },
   "author": "",
   "license": "ISC",

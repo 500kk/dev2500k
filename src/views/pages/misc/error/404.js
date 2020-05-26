@@ -25,7 +25,7 @@ class Error404 extends React.Component {
               </p>
               <Button.Ripple
                 tag="a"
-                href="/"
+                href="../../pages/profile"
                 color="primary"
                 size="lg"
                 className="mt-2"
